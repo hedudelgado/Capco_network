@@ -1,5 +1,6 @@
 package com.capco.capco_network;
 
+import com.capco.capco_network.domain.User;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -14,7 +15,7 @@ public class UserTest {
 
     @Before
     public void setUp(){
-       user = new com.capco.capco_network.User("Spike");
+       user = new User("Spike");
     }
 
     @Test
