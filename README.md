@@ -1,5 +1,5 @@
 
-[The waffle board](https://waffle.io/hedudelgado/Capco) contains the issues and work tracking.
+[The waffle board](https://waffle.io/hedudelgado/Capco_network) contains the issues and work tracking.
 
 :construction:
 ```
