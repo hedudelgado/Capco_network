@@ -7,12 +7,13 @@ As a user
 So I can use the capco network
 I want to create a user.
 ```
-:contruction:
+:white_check_mark: 
 ```
 As a user
 So I can publish messages
 I want to post messages to a personal timeline.
 ```
+:contruction:
 ```
 As a user
 So I can see other user messages
