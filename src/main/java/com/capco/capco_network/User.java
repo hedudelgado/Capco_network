@@ -21,6 +21,5 @@ public class User {
         this.name = name;
     }
 
-
 }
 rm -rf .git
