@@ -29,7 +29,7 @@ As a user
 So I can who I am following
 I want to see a list of my subscriptions.
 ```
-
+[![solarized dualmode](https://github.com/hedudelgado/Capco_network/Plan)]
 
 
 

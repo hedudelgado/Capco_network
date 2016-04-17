@@ -17,7 +17,7 @@ public class MessageTest {
     message = new Message("doing Capco tech test");
     }
     @Test
-    public void testUser(){
+    public void testmessage(){
         assertNotNull(message);
     }
 

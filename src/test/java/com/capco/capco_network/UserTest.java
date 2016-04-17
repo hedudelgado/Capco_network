@@ -20,6 +20,7 @@ public class UserTest {
 
     @Test
     public void testUser(){
+
         assertNotNull(user);
     }
     @Test
