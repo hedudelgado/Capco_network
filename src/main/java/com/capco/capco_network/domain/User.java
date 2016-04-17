@@ -1,10 +1,11 @@
-package com.capco.capco_network;
+package com.capco.capco_network.domain;
 
 /**
  * Created by sorry on 17/04/2016.
  */
 public class User {
     private String name;
+
 
     public User() {
     }
@@ -22,4 +23,3 @@ public class User {
     }
 
 }
-rm -rf .git
