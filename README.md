@@ -1,12 +1,13 @@
 
 [The waffle board](https://waffle.io/hedudelgado/Capco_network) contains the issues and work tracking.
 
-:construction:
+:white_check_mark: 
 ```
 As a user
 So I can use the capco network
 I want to create a user.
 ```
+:contruction:
 ```
 As a user
 So I can publish messages
