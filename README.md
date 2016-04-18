@@ -27,7 +27,7 @@ As a user
 So I can publish messages
 I want to post messages to a personal timeline.
 ```
-:contruction:
+:construction:
 ```
 As a user
 So I can see other user messages
