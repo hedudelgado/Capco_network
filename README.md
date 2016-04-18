@@ -33,6 +33,12 @@ As a user
 So I can see other user messages
 I want to visit other's user timeline.
 ```
+:construction:
+```
+As a user
+So I can see my messages
+I want to visit my own timeline.
+```
 ```
 As a user
 So I can follow other users
