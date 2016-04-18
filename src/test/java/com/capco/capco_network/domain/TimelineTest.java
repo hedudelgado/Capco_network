@@ -21,6 +21,5 @@ public class TimelineTest{
     public void testtimeLine(){
 
         assertNotNull(timeline);
-        assert
     }
 }
