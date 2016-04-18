@@ -1,7 +1,7 @@
 # Capco_Network
 
 ##Statement
-In order to create a console-based basic MVP app in a language I knew nothing couple of hours ago, I decided to follow a specific process.
+In order to create a console-based basic MVP app in a language I knew nothing couple of hours ago, I decided to follow a specific process.  
 1- Complete a codeacademy tutorial to understand the Java syntax.  
 2- Design a Plan about how I would built the same app in a language I feel confident with.  
 3- Applying how I would do it in Ruby, I came across Maven, I installed.  
@@ -12,7 +12,6 @@ In order to create a console-based basic MVP app in a language I knew nothing co
 8- Red-Green-Refac.  
 ...To Be Continued...
 
-A console-based social networking application (similar to Twitter) where a user can be created, a user can publish messages to a personal timeline, a user can view other user's timelines, and a user can subcribe to follow other users and see an aggregated feed of their messages.
 
 [The waffle board](https://waffle.io/hedudelgado/Capco_network) contains the issues and work tracking.
 
@@ -44,7 +43,7 @@ As a user
 So I can who I am following
 I want to see a list of my subscriptions.
 ```
-[![solarized dualmode](https://github.com/hedudelgado/Capco_network/Plan)](#features)
+[![solarized dualmode](https://github.com/hedudelgado/Capco_network/Plan.png)](#features)
 
 
 
