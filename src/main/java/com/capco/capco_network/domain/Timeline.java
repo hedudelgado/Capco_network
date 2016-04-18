@@ -5,4 +5,5 @@ package com.capco.capco_network.domain;
  */
 public class Timeline {
     public String[] messages;
+
 }
