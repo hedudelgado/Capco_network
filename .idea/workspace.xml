@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0d8f346-974b-435a-b076-ded0f9837349" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="capco-network.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -887,7 +888,7 @@
       <option name="presentableId" value="Default" />
       <updated>1460921052235</updated>
       <workItem from="1460921053852" duration="10183000" />
-      <workItem from="1460933502031" duration="4155000" />
+      <workItem from="1460933502031" duration="4257000" />
     </task>
     <servers />
   </component>
@@ -924,7 +925,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14338000" />
+    <option name="totallyTimeSpent" value="14440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
